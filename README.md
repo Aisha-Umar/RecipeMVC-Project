@@ -1,3 +1,9 @@
+
+# My Awesome Project
+
+![Demo of the app in action](images/logo.png)
+
+
 # Introduction
 
 A Simple RecipeBook App is built using the MVC Architecture, we have also implemented "authorization" so folx can sign up, customize & personalize the app 
