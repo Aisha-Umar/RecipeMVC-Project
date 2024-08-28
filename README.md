@@ -1,4 +1,4 @@
-
+![Alt text](public/images/logo.png)
 # My Awesome Project
 
 ![Demo of the app in action](images/logo.png)
